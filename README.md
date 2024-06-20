@@ -2,7 +2,11 @@
 Repositório criado para armazenar os arquivos do desafio de projeto do Bootcamp Data Analytics com Power BI da DIO.
 
 Neste desafio foi proposto criar um ralatório de vendas com a Sample do Power BI.
+
+Link para acessar o relatório: https://app.powerbi.com/groups/me/reports/61feed10-d740-4413-b19d-9a91b34ac3fb/ReportSection26f037b5d1b2544f1661?experience=power-bi
+
 As páginas do meu relatório ficaram da seguinte maneira:
+
 
 ## Página 1 - Relatório de Vendas Considerando Produto e Segmento
 ![image](https://github.com/joynsena/DIO---Desafio-Power-BI---Sample-de-Vendas/assets/142733449/69dd68dc-59bd-4d1e-9f89-14c76a69b475)
